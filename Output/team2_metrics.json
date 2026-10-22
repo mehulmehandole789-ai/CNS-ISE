@@ -1,0 +1,14 @@
+{
+  "test_accuracy": 0.9577950043066322,
+  "test_balanced_accuracy": 0.9510260682687779,
+  "test_macro_f1": 0.9507723590315276,
+  "test_weighted_f1": 0.9579159671136843,
+  "best_validation_balanced_accuracy": 0.960128538128538,
+  "training_samples": 9281,
+  "validation_samples": 1156,
+  "test_samples": 1161,
+  "n_features": 50,
+  "tuning_seconds": 73.24860622000006,
+  "training_seconds": 1.112897358000282,
+  "inference_seconds": 0.17784870399964348
+}

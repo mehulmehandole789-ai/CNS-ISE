@@ -1,0 +1,48 @@
+{
+  "labels": [
+    "Adware",
+    "Banking",
+    "Benign",
+    "Riskware",
+    "SMS Malware"
+  ],
+  "rows": "actual_class",
+  "columns": "predicted_class",
+  "matrix": [
+    [
+      119,
+      2,
+      0,
+      4,
+      1
+    ],
+    [
+      5,
+      198,
+      2,
+      5,
+      0
+    ],
+    [
+      0,
+      5,
+      167,
+      7,
+      0
+    ],
+    [
+      4,
+      7,
+      3,
+      241,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      2,
+      387
+    ]
+  ]
+}

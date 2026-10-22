@@ -1,0 +1,1162 @@
+sample_id,predicted_label
+13,Adware
+14,Adware
+20,Adware
+21,Adware
+34,Adware
+40,Adware
+64,Adware
+87,Adware
+91,Adware
+98,Adware
+121,Adware
+130,Adware
+134,Adware
+161,Adware
+166,Adware
+187,Adware
+189,Adware
+200,Adware
+201,Adware
+205,SMS Malware
+206,Adware
+216,Adware
+230,Adware
+241,Adware
+252,Adware
+269,Riskware
+276,Adware
+288,Adware
+295,Adware
+315,Adware
+330,Adware
+337,Adware
+343,Adware
+378,Adware
+379,Adware
+385,Adware
+387,Adware
+391,Adware
+392,Adware
+397,Adware
+401,Adware
+406,Adware
+418,Adware
+455,Adware
+459,Adware
+466,Adware
+474,Adware
+492,Adware
+502,Adware
+508,Adware
+510,Adware
+520,Adware
+562,Adware
+564,Adware
+565,Adware
+592,Adware
+600,Adware
+612,Adware
+642,Adware
+646,Banking
+647,Adware
+683,Adware
+686,Adware
+699,Adware
+702,Adware
+719,Adware
+725,Adware
+729,Riskware
+742,Adware
+747,Adware
+763,Adware
+766,Adware
+769,Adware
+775,Adware
+776,Adware
+779,Adware
+791,Banking
+794,Adware
+804,Adware
+805,Adware
+815,Adware
+831,Adware
+840,Adware
+856,Adware
+860,Riskware
+863,Adware
+870,Adware
+871,Adware
+878,Adware
+891,Adware
+897,Adware
+929,Adware
+955,Adware
+957,Adware
+960,Adware
+975,Adware
+995,Adware
+1016,Adware
+1017,Adware
+1021,Adware
+1025,Adware
+1028,Adware
+1038,Adware
+1044,Adware
+1051,Adware
+1056,Adware
+1064,Adware
+1071,Adware
+1076,Adware
+1082,Adware
+1086,Adware
+1095,Adware
+1104,Adware
+1123,Adware
+1126,Adware
+1129,Adware
+1130,Adware
+1147,Adware
+1152,Adware
+1154,Adware
+1162,Adware
+1184,Adware
+1215,Riskware
+1220,Adware
+1234,Adware
+1238,Adware
+1256,Banking
+1263,Banking
+1264,Banking
+1277,Banking
+1279,Banking
+1281,Adware
+1286,Banking
+1293,Banking
+1294,Banking
+1299,Banking
+1307,Banking
+1311,Banking
+1313,Banking
+1321,Banking
+1325,Banking
+1327,Riskware
+1350,Banking
+1354,Banking
+1360,Banking
+1380,Banking
+1382,Banking
+1383,Banking
+1389,Banking
+1401,Banking
+1406,Banking
+1420,Banking
+1424,Banking
+1439,Banking
+1455,Banking
+1470,Banking
+1491,Banking
+1504,Banking
+1522,Banking
+1529,Banking
+1550,Banking
+1585,Banking
+1590,Banking
+1594,Banking
+1597,Banking
+1620,Banking
+1627,Banking
+1629,Banking
+1646,Banking
+1656,Banking
+1658,Banking
+1662,Banking
+1699,Banking
+1712,Banking
+1723,Banking
+1740,Banking
+1747,Banking
+1753,Banking
+1780,Banking
+1783,Banking
+1785,Banking
+1811,Banking
+1847,Banking
+1852,Banking
+1853,Banking
+1869,Adware
+1882,Banking
+1888,Banking
+1891,Banking
+1893,Banking
+1905,Banking
+1920,Banking
+1923,Banking
+1925,Banking
+1935,Banking
+1947,Banking
+1952,Banking
+1961,Banking
+1969,Banking
+1970,Banking
+1972,Banking
+1973,Banking
+1980,Banking
+1986,Banking
+1990,Banking
+1995,Banking
+2003,Banking
+2010,Banking
+2017,Banking
+2037,Banking
+2054,Banking
+2065,Banking
+2067,Banking
+2077,Banking
+2079,Banking
+2081,Banking
+2087,Banking
+2098,Banking
+2114,Banking
+2126,Banking
+2143,Banking
+2166,Banking
+2183,Banking
+2196,Banking
+2201,Benign
+2221,Banking
+2222,Banking
+2241,Banking
+2246,Banking
+2255,Banking
+2264,Banking
+2286,Banking
+2306,Banking
+2307,Banking
+2329,Banking
+2335,Banking
+2375,Benign
+2380,Banking
+2383,Banking
+2405,Banking
+2409,Riskware
+2411,Banking
+2442,Banking
+2444,Banking
+2449,Banking
+2454,Banking
+2498,Banking
+2499,Banking
+2507,Banking
+2515,Adware
+2521,Banking
+2525,Banking
+2527,Banking
+2533,Banking
+2542,Adware
+2567,Banking
+2577,Banking
+2579,Banking
+2580,Banking
+2586,Banking
+2587,Banking
+2589,Banking
+2593,Banking
+2597,Banking
+2611,Banking
+2613,Banking
+2619,Banking
+2659,Banking
+2662,Banking
+2666,Banking
+2667,Banking
+2675,Banking
+2683,Banking
+2706,Banking
+2742,Banking
+2757,Banking
+2775,Banking
+2785,Banking
+2786,Banking
+2787,Banking
+2795,Banking
+2803,Banking
+2809,Banking
+2810,Banking
+2813,Banking
+2818,Banking
+2819,Banking
+2824,Banking
+2832,Banking
+2850,Banking
+2851,Banking
+2861,Banking
+2871,Banking
+2882,Banking
+2884,Banking
+2890,Banking
+2906,Banking
+2913,Banking
+2929,Riskware
+2932,Riskware
+2946,Banking
+2958,Adware
+2972,Banking
+2994,Banking
+3003,Banking
+3024,Banking
+3048,Banking
+3061,Banking
+3072,Banking
+3081,Banking
+3085,Banking
+3100,Banking
+3103,Banking
+3106,Banking
+3119,Banking
+3128,Banking
+3140,Banking
+3147,Banking
+3148,Banking
+3150,Banking
+3174,Banking
+3178,Banking
+3199,Banking
+3206,Banking
+3209,Banking
+3217,Banking
+3278,Banking
+3292,Banking
+3304,Banking
+3309,Banking
+3316,Banking
+3317,Banking
+3319,Banking
+3337,Banking
+3340,Banking
+3341,Riskware
+3380,SMS Malware
+3397,SMS Malware
+3400,SMS Malware
+3417,SMS Malware
+3418,SMS Malware
+3433,SMS Malware
+3438,SMS Malware
+3456,SMS Malware
+3474,SMS Malware
+3477,SMS Malware
+3500,SMS Malware
+3510,SMS Malware
+3514,SMS Malware
+3522,SMS Malware
+3524,SMS Malware
+3531,SMS Malware
+3533,SMS Malware
+3540,SMS Malware
+3551,SMS Malware
+3559,SMS Malware
+3561,SMS Malware
+3567,SMS Malware
+3575,SMS Malware
+3578,SMS Malware
+3581,SMS Malware
+3599,SMS Malware
+3610,SMS Malware
+3622,SMS Malware
+3632,SMS Malware
+3634,SMS Malware
+3665,SMS Malware
+3689,SMS Malware
+3700,SMS Malware
+3702,SMS Malware
+3706,SMS Malware
+3709,SMS Malware
+3722,SMS Malware
+3724,SMS Malware
+3738,SMS Malware
+3763,SMS Malware
+3789,SMS Malware
+3793,SMS Malware
+3798,SMS Malware
+3807,SMS Malware
+3822,SMS Malware
+3830,SMS Malware
+3837,SMS Malware
+3843,SMS Malware
+3844,SMS Malware
+3853,SMS Malware
+3868,SMS Malware
+3874,SMS Malware
+3876,SMS Malware
+3887,SMS Malware
+3900,SMS Malware
+3916,SMS Malware
+3932,SMS Malware
+3947,SMS Malware
+3954,SMS Malware
+3956,SMS Malware
+3965,SMS Malware
+3979,SMS Malware
+3980,SMS Malware
+3988,SMS Malware
+3991,SMS Malware
+4013,SMS Malware
+4016,SMS Malware
+4018,SMS Malware
+4027,SMS Malware
+4029,SMS Malware
+4033,SMS Malware
+4040,SMS Malware
+4078,SMS Malware
+4079,SMS Malware
+4100,SMS Malware
+4101,SMS Malware
+4123,SMS Malware
+4139,SMS Malware
+4156,Banking
+4165,SMS Malware
+4171,SMS Malware
+4173,SMS Malware
+4177,SMS Malware
+4183,SMS Malware
+4186,SMS Malware
+4190,SMS Malware
+4197,SMS Malware
+4199,SMS Malware
+4214,SMS Malware
+4239,SMS Malware
+4274,SMS Malware
+4299,SMS Malware
+4311,SMS Malware
+4321,SMS Malware
+4333,SMS Malware
+4339,SMS Malware
+4357,SMS Malware
+4365,SMS Malware
+4367,SMS Malware
+4369,SMS Malware
+4377,SMS Malware
+4388,SMS Malware
+4417,SMS Malware
+4426,SMS Malware
+4427,SMS Malware
+4433,SMS Malware
+4441,SMS Malware
+4445,SMS Malware
+4448,SMS Malware
+4457,SMS Malware
+4466,SMS Malware
+4467,SMS Malware
+4477,SMS Malware
+4482,SMS Malware
+4486,SMS Malware
+4491,SMS Malware
+4496,SMS Malware
+4501,SMS Malware
+4505,SMS Malware
+4517,SMS Malware
+4542,SMS Malware
+4564,SMS Malware
+4579,SMS Malware
+4588,SMS Malware
+4592,SMS Malware
+4593,SMS Malware
+4597,SMS Malware
+4617,SMS Malware
+4625,SMS Malware
+4633,SMS Malware
+4665,SMS Malware
+4676,SMS Malware
+4707,SMS Malware
+4718,SMS Malware
+4724,SMS Malware
+4743,SMS Malware
+4744,SMS Malware
+4750,SMS Malware
+4770,SMS Malware
+4783,SMS Malware
+4796,SMS Malware
+4797,SMS Malware
+4801,SMS Malware
+4802,SMS Malware
+4818,SMS Malware
+4824,SMS Malware
+4868,SMS Malware
+4874,SMS Malware
+4901,SMS Malware
+4917,SMS Malware
+4923,SMS Malware
+4927,SMS Malware
+4933,SMS Malware
+4935,SMS Malware
+4954,SMS Malware
+4957,SMS Malware
+4960,SMS Malware
+4967,SMS Malware
+4985,SMS Malware
+5002,SMS Malware
+5042,SMS Malware
+5070,SMS Malware
+5074,SMS Malware
+5077,SMS Malware
+5081,SMS Malware
+5120,SMS Malware
+5140,SMS Malware
+5142,SMS Malware
+5161,SMS Malware
+5173,SMS Malware
+5181,SMS Malware
+5185,SMS Malware
+5189,SMS Malware
+5193,SMS Malware
+5201,SMS Malware
+5203,Riskware
+5213,SMS Malware
+5225,SMS Malware
+5228,SMS Malware
+5235,SMS Malware
+5246,SMS Malware
+5261,SMS Malware
+5270,SMS Malware
+5273,SMS Malware
+5281,SMS Malware
+5282,SMS Malware
+5283,SMS Malware
+5285,SMS Malware
+5287,SMS Malware
+5315,SMS Malware
+5322,SMS Malware
+5335,SMS Malware
+5339,SMS Malware
+5349,SMS Malware
+5357,SMS Malware
+5377,SMS Malware
+5406,SMS Malware
+5410,SMS Malware
+5414,SMS Malware
+5416,SMS Malware
+5421,SMS Malware
+5431,SMS Malware
+5440,SMS Malware
+5447,SMS Malware
+5464,SMS Malware
+5484,SMS Malware
+5485,SMS Malware
+5497,SMS Malware
+5517,SMS Malware
+5523,SMS Malware
+5528,SMS Malware
+5533,SMS Malware
+5554,SMS Malware
+5555,SMS Malware
+5562,SMS Malware
+5579,SMS Malware
+5581,SMS Malware
+5584,SMS Malware
+5604,SMS Malware
+5614,SMS Malware
+5618,SMS Malware
+5625,SMS Malware
+5636,SMS Malware
+5655,SMS Malware
+5658,SMS Malware
+5662,SMS Malware
+5664,SMS Malware
+5726,SMS Malware
+5750,SMS Malware
+5753,SMS Malware
+5769,SMS Malware
+5772,SMS Malware
+5773,SMS Malware
+5795,SMS Malware
+5796,SMS Malware
+5804,SMS Malware
+5816,SMS Malware
+5832,SMS Malware
+5839,SMS Malware
+5841,SMS Malware
+5847,SMS Malware
+5853,SMS Malware
+5864,SMS Malware
+5874,SMS Malware
+5893,SMS Malware
+5895,SMS Malware
+5906,SMS Malware
+5911,SMS Malware
+5914,SMS Malware
+5932,SMS Malware
+5933,SMS Malware
+5934,SMS Malware
+5937,SMS Malware
+5943,SMS Malware
+5950,SMS Malware
+5954,SMS Malware
+5960,SMS Malware
+5977,SMS Malware
+6003,SMS Malware
+6011,SMS Malware
+6015,SMS Malware
+6042,SMS Malware
+6050,SMS Malware
+6056,SMS Malware
+6060,SMS Malware
+6071,Riskware
+6076,SMS Malware
+6081,SMS Malware
+6088,SMS Malware
+6093,SMS Malware
+6103,SMS Malware
+6111,SMS Malware
+6130,SMS Malware
+6135,SMS Malware
+6138,SMS Malware
+6143,SMS Malware
+6147,SMS Malware
+6163,SMS Malware
+6170,SMS Malware
+6176,SMS Malware
+6177,SMS Malware
+6187,SMS Malware
+6224,SMS Malware
+6233,SMS Malware
+6235,SMS Malware
+6239,SMS Malware
+6240,SMS Malware
+6241,SMS Malware
+6243,SMS Malware
+6246,SMS Malware
+6254,SMS Malware
+6274,SMS Malware
+6287,SMS Malware
+6295,SMS Malware
+6298,SMS Malware
+6324,SMS Malware
+6361,SMS Malware
+6389,SMS Malware
+6394,SMS Malware
+6400,SMS Malware
+6406,SMS Malware
+6409,SMS Malware
+6428,SMS Malware
+6451,SMS Malware
+6464,SMS Malware
+6468,SMS Malware
+6471,SMS Malware
+6482,SMS Malware
+6483,SMS Malware
+6498,SMS Malware
+6501,SMS Malware
+6509,SMS Malware
+6515,SMS Malware
+6518,SMS Malware
+6528,SMS Malware
+6539,SMS Malware
+6572,SMS Malware
+6589,SMS Malware
+6599,SMS Malware
+6612,SMS Malware
+6614,SMS Malware
+6624,SMS Malware
+6634,SMS Malware
+6645,SMS Malware
+6655,SMS Malware
+6662,SMS Malware
+6664,SMS Malware
+6674,SMS Malware
+6686,SMS Malware
+6693,SMS Malware
+6696,Banking
+6716,SMS Malware
+6726,SMS Malware
+6727,SMS Malware
+6736,SMS Malware
+6739,SMS Malware
+6751,SMS Malware
+6760,SMS Malware
+6761,SMS Malware
+6771,SMS Malware
+6783,SMS Malware
+6790,SMS Malware
+6800,SMS Malware
+6814,SMS Malware
+6836,SMS Malware
+6837,SMS Malware
+6840,SMS Malware
+6851,SMS Malware
+6869,SMS Malware
+6889,SMS Malware
+6903,SMS Malware
+6911,SMS Malware
+6920,SMS Malware
+6930,SMS Malware
+6934,SMS Malware
+6944,SMS Malware
+6948,SMS Malware
+6976,SMS Malware
+6990,SMS Malware
+6999,SMS Malware
+7001,SMS Malware
+7004,SMS Malware
+7012,SMS Malware
+7014,SMS Malware
+7019,SMS Malware
+7026,SMS Malware
+7028,SMS Malware
+7035,SMS Malware
+7040,SMS Malware
+7060,SMS Malware
+7082,SMS Malware
+7089,SMS Malware
+7093,SMS Malware
+7102,SMS Malware
+7107,SMS Malware
+7136,SMS Malware
+7137,SMS Malware
+7159,SMS Malware
+7161,SMS Malware
+7169,SMS Malware
+7182,SMS Malware
+7186,SMS Malware
+7187,SMS Malware
+7189,SMS Malware
+7199,SMS Malware
+7205,SMS Malware
+7213,SMS Malware
+7222,SMS Malware
+7223,SMS Malware
+7227,SMS Malware
+7240,SMS Malware
+7259,Riskware
+7267,Riskware
+7276,Riskware
+7326,Riskware
+7341,Riskware
+7345,Riskware
+7358,Riskware
+7359,Riskware
+7363,Riskware
+7383,Riskware
+7391,Riskware
+7393,Riskware
+7394,Riskware
+7397,Riskware
+7403,Riskware
+7406,Riskware
+7410,Riskware
+7417,Riskware
+7420,Riskware
+7438,Riskware
+7446,Riskware
+7457,Benign
+7464,Riskware
+7481,Riskware
+7504,Riskware
+7523,Banking
+7525,Riskware
+7527,Riskware
+7532,Riskware
+7547,Riskware
+7562,Riskware
+7565,Riskware
+7569,Riskware
+7582,Riskware
+7596,Riskware
+7599,Riskware
+7614,Riskware
+7621,Riskware
+7644,Riskware
+7659,Riskware
+7661,Riskware
+7671,Riskware
+7678,Riskware
+7683,Riskware
+7688,Riskware
+7697,Riskware
+7715,Riskware
+7726,Riskware
+7727,Riskware
+7736,Riskware
+7748,Riskware
+7751,Riskware
+7753,Riskware
+7754,Riskware
+7784,Riskware
+7785,Riskware
+7792,Riskware
+7807,Riskware
+7820,Riskware
+7828,Riskware
+7840,Riskware
+7845,Riskware
+7861,Riskware
+7869,Riskware
+7870,Riskware
+7883,Riskware
+7910,Adware
+7912,Riskware
+7916,Riskware
+7923,Riskware
+7925,Riskware
+7929,Riskware
+7933,Riskware
+7977,Benign
+7987,Riskware
+7988,Riskware
+7994,Riskware
+8016,Riskware
+8036,Riskware
+8051,Riskware
+8072,Riskware
+8077,Riskware
+8099,Riskware
+8104,Riskware
+8107,Banking
+8125,Riskware
+8126,Riskware
+8127,Riskware
+8130,Riskware
+8138,Riskware
+8139,Riskware
+8142,Riskware
+8144,Riskware
+8146,Riskware
+8152,Riskware
+8166,Riskware
+8168,Banking
+8171,Riskware
+8178,Riskware
+8201,Riskware
+8203,Riskware
+8208,Riskware
+8215,Riskware
+8223,Riskware
+8230,Riskware
+8232,Riskware
+8237,Riskware
+8239,Riskware
+8240,Riskware
+8264,Riskware
+8271,Riskware
+8272,Riskware
+8284,Riskware
+8285,Riskware
+8308,Riskware
+8324,Riskware
+8340,Riskware
+8343,Riskware
+8353,Adware
+8374,Riskware
+8378,Riskware
+8391,Riskware
+8443,Riskware
+8451,Riskware
+8466,Riskware
+8475,Riskware
+8481,Riskware
+8488,Riskware
+8489,Riskware
+8508,Riskware
+8513,Riskware
+8517,Riskware
+8519,Riskware
+8525,Riskware
+8526,Riskware
+8527,Riskware
+8530,Riskware
+8545,Riskware
+8548,Benign
+8549,Riskware
+8562,Banking
+8582,Riskware
+8583,Riskware
+8601,Riskware
+8608,Riskware
+8615,Riskware
+8635,Riskware
+8648,Riskware
+8652,Riskware
+8656,Riskware
+8707,Riskware
+8714,Banking
+8719,Riskware
+8720,Riskware
+8726,Riskware
+8731,Banking
+8748,Riskware
+8750,Riskware
+8752,Riskware
+8754,Riskware
+8762,Riskware
+8777,Riskware
+8780,Riskware
+8784,Adware
+8799,Riskware
+8835,Riskware
+8849,Riskware
+8852,Riskware
+8853,Riskware
+8856,Riskware
+8863,Riskware
+8864,Riskware
+8873,Riskware
+8887,Riskware
+8898,Riskware
+8909,Riskware
+8938,Riskware
+8948,Riskware
+8952,Riskware
+8972,Banking
+8973,Riskware
+8977,Riskware
+8978,Riskware
+8979,Riskware
+8981,Adware
+8985,Riskware
+8986,Riskware
+8997,Riskware
+9010,Riskware
+9016,Riskware
+9018,Riskware
+9035,Riskware
+9038,Riskware
+9050,Riskware
+9061,Riskware
+9064,Riskware
+9068,Riskware
+9070,Riskware
+9111,Riskware
+9129,Riskware
+9137,Riskware
+9177,Riskware
+9225,Riskware
+9232,Riskware
+9237,Riskware
+9241,Riskware
+9246,Riskware
+9250,Riskware
+9251,Riskware
+9255,Riskware
+9260,Riskware
+9268,Riskware
+9275,Riskware
+9292,Riskware
+9298,Riskware
+9302,Riskware
+9307,Riskware
+9309,Riskware
+9317,Riskware
+9320,Riskware
+9343,Riskware
+9369,Riskware
+9371,Riskware
+9383,Riskware
+9396,Riskware
+9420,Riskware
+9421,Riskware
+9424,Riskware
+9451,Riskware
+9452,Riskware
+9453,Riskware
+9475,Riskware
+9490,Riskware
+9496,Riskware
+9497,Riskware
+9511,Riskware
+9552,Riskware
+9566,Riskware
+9587,Riskware
+9608,Riskware
+9622,Riskware
+9627,Riskware
+9665,Riskware
+9684,Riskware
+9692,Riskware
+9695,Riskware
+9698,Riskware
+9703,Riskware
+9716,Riskware
+9732,Riskware
+9733,Riskware
+9752,Riskware
+9755,Riskware
+9775,Riskware
+9782,Riskware
+9808,Benign
+9824,Benign
+9842,Benign
+9850,Benign
+9860,Benign
+9869,Benign
+9874,Benign
+9876,Benign
+9878,Benign
+9906,Benign
+9910,Benign
+9923,Benign
+9925,Benign
+9926,Benign
+9927,Benign
+9971,Benign
+9975,Benign
+9996,Benign
+10002,Benign
+10003,Benign
+10011,Benign
+10024,Benign
+10036,Benign
+10046,Benign
+10059,Benign
+10063,Benign
+10069,Benign
+10078,Benign
+10097,Benign
+10126,Benign
+10133,Benign
+10161,Benign
+10164,Benign
+10170,Riskware
+10176,Benign
+10188,Benign
+10196,Benign
+10213,Benign
+10220,Benign
+10221,Benign
+10222,Benign
+10232,Benign
+10241,Benign
+10244,Benign
+10249,Benign
+10251,Benign
+10256,Benign
+10287,Benign
+10344,Benign
+10359,Banking
+10361,Benign
+10362,Benign
+10365,Benign
+10376,Benign
+10378,Benign
+10396,Benign
+10413,Benign
+10431,Benign
+10440,Benign
+10441,Benign
+10448,Benign
+10457,Benign
+10469,Benign
+10474,Benign
+10481,Banking
+10515,Benign
+10529,Benign
+10573,Benign
+10588,Benign
+10599,Benign
+10619,Benign
+10635,Benign
+10639,Benign
+10649,Benign
+10652,Benign
+10683,Benign
+10712,Benign
+10713,Benign
+10716,Benign
+10723,Benign
+10728,Benign
+10732,Benign
+10735,Benign
+10738,Riskware
+10761,Benign
+10788,Benign
+10792,Benign
+10807,Benign
+10809,Benign
+10810,Banking
+10856,Benign
+10857,Benign
+10861,Benign
+10867,Benign
+10889,Benign
+10895,Benign
+10901,Riskware
+10907,Benign
+10910,Benign
+10913,Benign
+10933,Benign
+10939,Benign
+10944,Benign
+10953,Benign
+10974,Benign
+10981,Benign
+10982,Benign
+10991,Benign
+10998,Benign
+11014,Benign
+11019,Benign
+11022,Benign
+11028,Benign
+11030,Benign
+11039,Benign
+11060,Benign
+11092,Benign
+11104,Benign
+11105,Benign
+11117,Benign
+11121,Benign
+11138,Benign
+11151,Benign
+11170,Benign
+11171,Benign
+11177,Benign
+11184,Benign
+11191,Benign
+11203,Benign
+11204,Benign
+11205,Benign
+11207,Benign
+11215,Benign
+11219,Benign
+11235,Benign
+11246,Benign
+11254,Riskware
+11256,Benign
+11257,Benign
+11261,Benign
+11265,Benign
+11267,Benign
+11271,Riskware
+11278,Benign
+11302,Benign
+11306,Riskware
+11313,Benign
+11316,Benign
+11327,Benign
+11332,Benign
+11341,Benign
+11368,Benign
+11377,Benign
+11379,Benign
+11391,Benign
+11396,Benign
+11407,Benign
+11433,Benign
+11440,Benign
+11446,Banking
+11453,Riskware
+11456,Benign
+11462,Banking
+11486,Benign
+11487,Benign
+11490,Benign
+11496,Benign
+11498,Benign
+11501,Benign
+11506,Benign
+11515,Benign
+11517,Benign
+11562,Benign
+11566,Benign
+11577,Benign
+11581,Benign
+11583,Benign
+11588,Benign
+11593,Benign

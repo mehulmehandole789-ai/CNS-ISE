@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+      Adware       0.93      0.94      0.94       126
+     Banking       0.93      0.94      0.93       210
+      Benign       0.97      0.93      0.95       179
+    Riskware       0.93      0.95      0.94       255
+ SMS Malware       1.00      0.99      0.99       391
+
+    accuracy                           0.96      1161
+   macro avg       0.95      0.95      0.95      1161
+weighted avg       0.96      0.96      0.96      1161

@@ -1,0 +1,6 @@
+actual_class,Adware,Banking,Benign,Riskware,SMS Malware
+Adware,119,2,0,4,1
+Banking,5,198,2,5,0
+Benign,0,5,167,7,0
+Riskware,4,7,3,241,0
+SMS Malware,0,2,0,2,387
